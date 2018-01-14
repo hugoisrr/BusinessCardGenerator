@@ -1,0 +1,25 @@
+[15-Jun-2016 20:23:42 Etc/GMT] PHP Warning:  imagejpeg(img/FIRMAS/Julieta_Comercio Exterior/Logisti_xtraLeon.jpg): failed to open stream: No such file or directory in /home/bamf/public_html/generatorAltex/processFirma.php on line 323
+[28-Jul-2016 14:01:46 Etc/GMT] PHP Notice:  Undefined index: otroNumero in /home/bamf/public_html/generatorAltex/processFirma.php on line 10
+[28-Jul-2016 14:02:13 Etc/GMT] PHP Notice:  Undefined index: otroNumero in /home/bamf/public_html/generatorAltex/processFirma.php on line 10
+[28-Jul-2016 14:03:15 Etc/GMT] PHP Notice:  Undefined index: otroNumero in /home/bamf/public_html/generatorAltex/processFirma.php on line 10
+[28-Jul-2016 14:05:19 Etc/GMT] PHP Notice:  Undefined index: otroNumero in /home/bamf/public_html/generatorAltex/processFirma.php on line 10
+[28-Jul-2016 22:34:16 Etc/GMT] PHP Notice:  Undefined index: otroNumero in /home/bamf/public_html/generatorAltex/processFirma.php on line 10
+[28-Jul-2016 22:35:13 Etc/GMT] PHP Notice:  Undefined index: otroNumero in /home/bamf/public_html/generatorAltex/processFirma.php on line 10
+[28-Jul-2016 22:36:23 Etc/GMT] PHP Notice:  Undefined index: otroNumero in /home/bamf/public_html/generatorAltex/processFirma.php on line 10
+[28-Jul-2016 22:36:36 Etc/GMT] PHP Notice:  Undefined index: otroNumero in /home/bamf/public_html/generatorAltex/processFirma.php on line 10
+[28-Jul-2016 22:36:51 Etc/GMT] PHP Notice:  Undefined index: otroNumero in /home/bamf/public_html/generatorAltex/processFirma.php on line 10
+[28-Jul-2016 22:40:00 Etc/GMT] PHP Notice:  Undefined index: otroNumero in /home/bamf/public_html/generatorAltex/processFirma.php on line 10
+[28-Jul-2016 22:41:35 Etc/GMT] PHP Notice:  Undefined index: otroNumero in /home/bamf/public_html/generatorAltex/processFirma.php on line 10
+[25-Apr-2017 16:53:26 Etc/GMT] PHP Warning:  imagejpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bamf/public_html/generatorAltex/processFirma.php on line 84
+[25-Apr-2017 16:53:31 Etc/GMT] PHP Warning:  imagejpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bamf/public_html/generatorAltex/processFirma.php on line 84
+[25-Apr-2017 16:53:52 Etc/GMT] PHP Warning:  imagejpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bamf/public_html/generatorAltex/processFirma.php on line 84
+[25-Apr-2017 16:56:45 Etc/GMT] PHP Warning:  imagejpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bamf/public_html/generatorAltex/processFirma.php on line 84
+[25-Apr-2017 17:01:49 Etc/GMT] PHP Warning:  imagejpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bamf/public_html/generatorAltex/processFirma.php on line 84
+[25-Apr-2017 17:03:38 Etc/GMT] PHP Warning:  imagejpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bamf/public_html/generatorAltex/processFirma.php on line 270
+[25-Apr-2017 17:03:53 Etc/GMT] PHP Warning:  imagejpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bamf/public_html/generatorAltex/processFirma.php on line 270
+[25-Apr-2017 17:04:09 Etc/GMT] PHP Warning:  imagejpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bamf/public_html/generatorAltex/processFirma.php on line 270
+[25-Apr-2017 17:04:47 Etc/GMT] PHP Warning:  imagejpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bamf/public_html/generatorAltex/processFirma.php on line 270
+[25-Apr-2017 17:05:00 Etc/GMT] PHP Warning:  imagejpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bamf/public_html/generatorAltex/processFirma.php on line 270
+[25-Apr-2017 17:05:48 Etc/GMT] PHP Warning:  imagejpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bamf/public_html/generatorAltex/processFirma.php on line 270
+[25-Apr-2017 17:07:28 Etc/GMT] PHP Warning:  imagejpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bamf/public_html/generatorAltex/processFirma.php on line 270
+[25-Apr-2017 17:07:38 Etc/GMT] PHP Warning:  imagejpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bamf/public_html/generatorAltex/proce
