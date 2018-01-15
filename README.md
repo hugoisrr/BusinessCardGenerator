@@ -1,26 +1,17 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Bare](http://startbootstrap.com/template-overviews/bare/)
+# [Generador de Firmas Altex](http://bamf.com.mx/generatorAltex/)
 
-[Bare](http://startbootstrap.com/template-overviews/bare/) is a bare HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features predefined file paths for Bootstrap and jQuery, so you can quickly create Bootstrap websites.
+Es una aplicación Web para generar tarjetas de negocio de Empresa Altex, el projecto fue encomendado por [BAMF](http://bamf.com.mx/).
 
-## Getting Started
+## Descripción
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+La aplicación utiliza distintas tecnnologías, tal como:
+* Bootstrap
+* JQuery
+* PHP
+El usuario tiene que ingresar sus datos personales y seleccionar el área correspondiente en su área laboral, para así determinar el tipo de tarjeta que debe crear.
 
-## Bugs and Issues
+## Creador
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-bare/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/bare/).
+La aplicación fue creada por **[Hugo I. Ramírez Soto](https://hugoramirezsoto.000webhostapp.com/)**.
 
-## Creator
-
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-bare/blob/gh-pages/LICENSE) license.
+* https://twitter.com/hugoisrr
